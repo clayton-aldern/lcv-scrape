@@ -1,0 +1,5 @@
+*.py
+*.ai
+*.twb
+.ipynb_checkpoints/
+.DS_Store
